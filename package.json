@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/darco31/jest_one#readme",
   "devDependencies": {
-    "jest": "^27.4.5"
+    "jest": "^27.4.7"
   }
 }
